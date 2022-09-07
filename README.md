@@ -1,4 +1,4 @@
 # Landing-Page
-Projeto de Site para empresa de Design Grafico
+Website design for a graphic design company
 
-Feito em HTML e CSS
+Made in HTML and CSS
